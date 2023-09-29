@@ -4,7 +4,7 @@ Network with me: [LinkedIn](https://www.linkedin.com/in/sagarsubedi/)
 
 ----------------------------------------------------------
 
-Linux
+Linux /br
 Networking
 Python
 Scripting
