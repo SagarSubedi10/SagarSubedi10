@@ -4,9 +4,9 @@ Network with me: [LinkedIn](https://www.linkedin.com/in/sagarsubedi/)
 
 ----------------------------------------------------------
 
-Linux /br
-Networking
-Python
-Scripting
+Linux <br>
+Networking <br>
+Python <br>
+Scripting <br>
 AWS
 
