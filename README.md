@@ -5,10 +5,3 @@ Follow along here: [work in progress](https://github.com/SagarSubedi10)
 Network with me: [LinkedIn](https://www.linkedin.com/in/sagarsubedi/)
 
 ----------------------------------------------------------
-
-Linux <br>
-Networking <br>
-Python <br>
-Scripting <br>
-AWS
-
