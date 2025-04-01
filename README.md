@@ -1,6 +1,4 @@
-Always Evolving Tech Wizard documenting bits and pieces of the journey here
-
-Follow along here: [Under Maintenance](https://github.com/SagarSubedi10)
+Always Evolving - bits and pieces of the journey here
 
 Network with me: [LinkedIn](https://www.linkedin.com/in/sagarsubedi/)
 
